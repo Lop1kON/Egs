@@ -1,7 +1,7 @@
 {
-	"name": "яйки ловить",
-	"short_name": "яйки ловить",
-	"description": "",
+	"name": "Дима Ловит Яйца",
+	"short_name": "Дима Ловит Яйца",
+	"description": "Игра Ну погоди!",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "landscape",
